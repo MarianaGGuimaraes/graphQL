@@ -1,0 +1,6 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Disallow:
+
+//google olha a pág acima, como os robôs que olham pág para gerar previews 
+de rede sociais ou para adiantar para os buscadores os dados importantes
