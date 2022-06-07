@@ -1,0 +1,2 @@
+packages:
+  - 'packages/**' //todos os arrays de itens são valores do array packages
